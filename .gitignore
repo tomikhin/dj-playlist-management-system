@@ -31,4 +31,4 @@
 *.out
 *.app
 # Output file to ignore
-output.txt
+output_example.txt
