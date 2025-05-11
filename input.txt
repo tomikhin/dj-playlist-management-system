@@ -1,0 +1,11 @@
+ADD 2 210 BlindingLights
+ADD 1 180 ShapeOfYou
+ADD 3 240 Memories
+ADD 2 271 TheShowMustGoOn
+PLAY
+SKIP 90
+SKIP 100
+REPLAY
+REMOVE Memories
+SHOW
+HISTORY
